@@ -1,0 +1,2 @@
+const fig = document.body.querySelector("#gallery");
+fig.innerHTML = '<figure><img src="https://unsplash.it/250/250/" alt=""><figcaption>Fig. 1</figcaption></figure><figure><img src="https://unsplash.it/250/250/" alt=""><figcaption>Fig. 2</figcaption></figure><figure><img src="https://unsplash.it/250/250/" alt=""><figcaption>Fig. 3</figcaption></figure>';
